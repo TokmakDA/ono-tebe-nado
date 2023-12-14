@@ -324,3 +324,7 @@
   line-height: normal;
   word-wrap: break-word;
 }
+
+.footer {
+  margin-top: 180px;
+}
