@@ -228,11 +228,12 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  min-height: 600px;
+  min-height: 100%;
   padding: 50px 40px;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  gap: 30px
 }
 
 .card_type_film {
