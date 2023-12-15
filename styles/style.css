@@ -61,7 +61,6 @@
 /* address */
 .address {
   color: #000;
-  font-family: Raleway;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
@@ -175,7 +174,6 @@
   border: 1px solid #fff;
   padding: 12px 32px;
   color: #fff;
-  font-family: Raleway;
   font-weight: 400;
   font-size: 22px;
   font-style: normal;
@@ -198,7 +196,6 @@
   margin-bottom: 27px;
   margin-left: 26px;
   color: #000;
-  font-family: Raleway;
   font-weight: 700;
   font-size: 40px;
   font-style: normal;
@@ -250,7 +247,6 @@
 
 .card__title {
   color: #fff;
-  font-family: Raleway;
   font-weight: 700;
   font-size: 22px;
   font-style: normal;
@@ -263,7 +259,6 @@
 
 .card__text {
   color: #fff;
-  font-family: Raleway;
   font-weight: 400;
   font-size: 20px;
   font-style: normal;
@@ -275,7 +270,6 @@
 .lots__look-more-link {
   margin: 30px 0 2px 26px;
   color: #000;
-  font-family: Raleway;
   font-weight: 400;
   font-size: 20px;
   font-style: normal;
